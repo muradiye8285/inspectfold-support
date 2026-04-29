@@ -1,6 +1,6 @@
 # Privacy Policy – InspectFold
 
-Effective Date: February 2026
+Effective Date: April 2026
 
 InspectFold ("the App") respects your privacy. This Privacy Policy explains how information is handled when you use the App.
 
